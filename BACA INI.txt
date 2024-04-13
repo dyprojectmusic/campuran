@@ -1,0 +1,12 @@
+HALO SC INI BY TZYOX 
+
+CARA PAKE:
+1. npm install
+2. node dy2.js target time rps threads proxyfile
+
+contoh:
+ node dy2.js https://smpn1bangodua.sch.id 500 5 10 proxy2.txt
+ 
+ kode ini bisa di gnti dengan file lain 
+ 
+ 
